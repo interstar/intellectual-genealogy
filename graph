@@ -1,0 +1,32 @@
+
+graph TD
+ 
+Piaget[Jean Piaget]-->Papert
+Papert[Seymour Papert]-->Kay
+McLuhan[Marshal McLuhan]-->Kay
+Kay[Alan Kay - Smalltalk]-->Victor
+Tufte[Edward Tufte]-->Victor
+diSessa[Andi diSessa]-->Victor
+Papert-->diSessa
+Hofstader[Douglas Hofstader]-->Victor
+Engelbart[Douglas Engelbart]-->Kay
+Minsky[Marvin Minsky]-->Kay
+Sutherland[Ivan Sutherland]-->Kay
+Brunner[Jerome Brunner]-->Kay
+Kay-->Hart[Vi Hart]
+Victor[Bret Victor]-->Case[Nicky Case]
+Victor-->Patel[Amit Patel]
+Victor-->Granger[Chris Granger - Eve]
+Bush[Vannevar Bush]-->Engelbart
+Bush-->Nelson[Ted Nelson]
+Bush-->Licklider[J. C.R. Licklider]
+Licklider-->Sutherland
+Sutherland-->Engelbart
+Bush-->Sutherland
+Kay-->Jobs[Steve Jobs]
+Kay-->Cunningham[Ward Cunningham - Wiki]
+Engelbart-->Atkinson[Bill Atkinson - Hypercard]
+Atkinson-->Cunningham
+Nelson-->Atkinson
+Jobs-->Atkinson
+Bricklin[Dan Bricklin - Spreadheets]-->Granger
